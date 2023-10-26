@@ -1,8 +1,8 @@
 {
   "settingsInheritedFrom": "pferronMend/whitesource-config@main",
   "scanSettingsSAST": {
-    "enableScan": false,
-    "scanPullRequests": false,
+    "enableScan": true,
+    "scanPullRequests": true,
     "incrementalScan": false,
     "baseBranches": []
   }
